@@ -1,13 +1,11 @@
 # JukeBox
 JukeBox is a plugin that allows you to listen to music on your Minecraft server.
 
-> [!NOTE]
-> JukeBox is currently in maintenance mode. I (SkytAsul) am not willing to spend time on this plugin anymore.  
-> Important bugs that prevent the use of the plugin will still get fixed, but please note that there is no
-> point in making feature requests, except if you are willing to program them yourself and propose Pull Requests.
-
-## How to download?
-The official page for this project is on [SpigotMC](https://www.spigotmc.org/resources/jukebox-music-plugin.40580/).
+## How does this differ from the original?
+This fork is a customized version I modified for use on my server.
+This fork is fixes for some issues and a few customizations.
+If you wish to use it, please download the source code and build it yourself.
+As a rule, i don't submit pull requests to the original version for changes made to this fork, except for bug fixes.
 
 ## Documentation
 You can find various tutorials in the [documentation page on SpigotMC](https://www.spigotmc.org/resources/jukebox-music-plugin.40580/field?field=documentation).
@@ -28,5 +26,4 @@ And this to your `dependencies` section:
   <version>VERSION</version>
   <scope>provided</scope>
 </dependency>
-
 ```
