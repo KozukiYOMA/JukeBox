@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.skytasul</groupId>
 	<artifactId>JukeBox_Custmized</artifactId>
-	<version>1.20.14</version>
+	<version>1.20.15</version>
 	<name>JukeBox_Custmized</name>
 
 	<properties>
@@ -63,13 +63,13 @@
 		<dependency>
 			<groupId>com.github.koca2000</groupId>
 			<artifactId>NoteBlockAPI</artifactId>
-			<version>1.6.2</version>
+			<version>1.7.0</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.spigotmc</groupId>
 			<artifactId>spigot-api</artifactId>
-			<version>1.21.1-R0.1-SNAPSHOT</version>
+			<version>26.1.2-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
